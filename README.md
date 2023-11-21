@@ -1,20 +1,24 @@
 # Professional README Generator
 
 ## Purpose
-The Professional README Generator is a command-line tool that automates 
-the creation of professional README files for your software projects.
+
+The Professional README Generator is a command-line tool designed to streamline the creation of professional README files for your software projects. Writing comprehensive and well-organized READMEs is crucial for effective project communication and collaboration. This tool automates the process, allowing developers to focus more on coding and less on documentation.
 
 ## Technologies Used
 
-JavaScript
-node.js
-Inquirer
+- **JavaScript:** The primary programming language for building the functionality of the README generator.
+- **Node.js:** An open-source, server-side runtime environment that executes JavaScript code, enabling the tool to run outside of a web browser.
+- **Inquirer:** A powerful command-line user interface library for Node.js that facilitates interactive prompts, making it easy to gather information from the user to customize the README.
 
 ## Demo
-<img width="1680" alt="Screenshot 2023-06-01 at 9 18 54 PM" src="https://github.com/Liban200/Pro-README/assets/125518353/e716ae1d-c267-4e85-9b78-d3f8fe9f95a8">
+
+
 
 ## Credits
 
-Shihan - Assistant Instructor, Charlie Puente-Matos - Tutoring Session and https://www.youtube.com/watch?v=9YivEQFpmHQ
+- **Shihan:** Assistant Instructor who provided valuable guidance and support.
+- **Charlie Puente-Matos:** Contributed to a tutoring session, offering insights into improving the README Generator.
+- **[YouTube Tutorial](https://www.youtube.com/watch?v=9YivEQFpmHQ):** Additional learning resource that aided in the development process.
+
 
 
